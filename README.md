@@ -67,4 +67,4 @@ Created **5 meaningful visualizations** across all datasets using Matplotlib. Ea
 ## How to Run This Notebook
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/cerine-guerra/full_data_analysis_for_covid19_dataset.git
